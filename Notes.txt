@@ -1,0 +1,1 @@
+px.line(data, x="Year", y="Capita Income", colour='country', title="Capita Income")
